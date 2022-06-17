@@ -1,0 +1,576 @@
+{
+    "version": "version_v2",
+    "1.Filter_and_Map": {
+        "1.1.Adapter_Filter": [
+            {
+                "Sample_id": "FP200002927_L01_3",
+                "getCIDPositionMap_uniqCIDTypes": "609.7M",
+                "total_reads": "1.35G",
+                "fixed_sequence_contianing_reads": "0.0(0.00%)",
+                "mapped_reads": "821.51M(60.73%)",
+                "CID_misOverlap_reads": "136.07M(10.06%)",
+                "CID_withN_reads": "0.0(0.00%)",
+                "Q10_bases_in_CID": "99.42%",
+                "Q20_bases_in_CID": "97.60%",
+                "Q30_bases_in_CID": "91.26%",
+                "Q10_bases_in_MID": "98.34%",
+                "Q20_bases_in_MID": "95.23%",
+                "Q30_bases_in_MID": "88.13%",
+                "Q10_bases_in_seq": "98.65%",
+                "Q20_bases_in_seq": "95.63%",
+                "Q30_bases_in_seq": "88.02%",
+                "MID_filter_reads": "32.06M(2.37%)",
+                "MID_with_N_reads": "55.03K(0.00%)",
+                "MID_with_polyA_reads": "13.27K(0.00%)",
+                "MID_with_low_quality_base_reads": "31.99M(2.36%)"
+            },
+            {
+                "Sample_id": "FP200002927_L01_2",
+                "getCIDPositionMap_uniqCIDTypes": "609.7M",
+                "total_reads": "1.53G",
+                "fixed_sequence_contianing_reads": "0.0(0.00%)",
+                "mapped_reads": "925.26M(60.66%)",
+                "CID_misOverlap_reads": "152.52M(10.00%)",
+                "CID_withN_reads": "0.0(0.00%)",
+                "Q10_bases_in_CID": "99.43%",
+                "Q20_bases_in_CID": "97.67%",
+                "Q30_bases_in_CID": "91.58%",
+                "Q10_bases_in_MID": "98.40%",
+                "Q20_bases_in_MID": "95.38%",
+                "Q30_bases_in_MID": "88.50%",
+                "Q10_bases_in_seq": "98.70%",
+                "Q20_bases_in_seq": "95.83%",
+                "Q30_bases_in_seq": "88.67%",
+                "MID_filter_reads": "34.62M(2.27%)",
+                "MID_with_N_reads": "54.81K(0.00%)",
+                "MID_with_polyA_reads": "15.74K(0.00%)",
+                "MID_with_low_quality_base_reads": "34.55M(2.26%)"
+            },
+            {
+                "Sample_id": "FP200002927_L01_26",
+                "getCIDPositionMap_uniqCIDTypes": "609.7M",
+                "total_reads": "1.51G",
+                "fixed_sequence_contianing_reads": "0.0(0.00%)",
+                "mapped_reads": "909.94M(60.14%)",
+                "CID_misOverlap_reads": "150.85M(9.97%)",
+                "CID_withN_reads": "0.0(0.00%)",
+                "Q10_bases_in_CID": "99.42%",
+                "Q20_bases_in_CID": "97.61%",
+                "Q30_bases_in_CID": "91.39%",
+                "Q10_bases_in_MID": "98.29%",
+                "Q20_bases_in_MID": "95.16%",
+                "Q30_bases_in_MID": "88.18%",
+                "Q10_bases_in_seq": "98.74%",
+                "Q20_bases_in_seq": "95.95%",
+                "Q30_bases_in_seq": "88.94%",
+                "MID_filter_reads": "37.58M(2.48%)",
+                "MID_with_N_reads": "54.35K(0.00%)",
+                "MID_with_polyA_reads": "14.27K(0.00%)",
+                "MID_with_low_quality_base_reads": "37.52M(2.48%)"
+            },
+            {
+                "Sample_id": "FP200002927_L01_13",
+                "getCIDPositionMap_uniqCIDTypes": "609.7M",
+                "total_reads": "1.3G",
+                "fixed_sequence_contianing_reads": "0.0(0.00%)",
+                "mapped_reads": "782.44M(60.21%)",
+                "CID_misOverlap_reads": "129.5M(9.97%)",
+                "CID_withN_reads": "0.0(0.00%)",
+                "Q10_bases_in_CID": "99.43%",
+                "Q20_bases_in_CID": "97.66%",
+                "Q30_bases_in_CID": "91.55%",
+                "Q10_bases_in_MID": "98.43%",
+                "Q20_bases_in_MID": "95.48%",
+                "Q30_bases_in_MID": "88.70%",
+                "Q10_bases_in_seq": "98.73%",
+                "Q20_bases_in_seq": "95.92%",
+                "Q30_bases_in_seq": "88.81%",
+                "MID_filter_reads": "28.83M(2.22%)",
+                "MID_with_N_reads": "47.47K(0.00%)",
+                "MID_with_polyA_reads": "13.01K(0.00%)",
+                "MID_with_low_quality_base_reads": "28.77M(2.21%)"
+            },
+            {
+                "Sample_id": "FP200002927_L01_1",
+                "getCIDPositionMap_uniqCIDTypes": "609.7M",
+                "total_reads": "1.47G",
+                "fixed_sequence_contianing_reads": "0.0(0.00%)",
+                "mapped_reads": "902.13M(61.42%)",
+                "CID_misOverlap_reads": "148.73M(10.13%)",
+                "CID_withN_reads": "0.0(0.00%)",
+                "Q10_bases_in_CID": "99.42%",
+                "Q20_bases_in_CID": "97.62%",
+                "Q30_bases_in_CID": "91.43%",
+                "Q10_bases_in_MID": "98.33%",
+                "Q20_bases_in_MID": "95.21%",
+                "Q30_bases_in_MID": "88.18%",
+                "Q10_bases_in_seq": "98.71%",
+                "Q20_bases_in_seq": "95.85%",
+                "Q30_bases_in_seq": "88.68%",
+                "MID_filter_reads": "35.38M(2.41%)",
+                "MID_with_N_reads": "54.44K(0.00%)",
+                "MID_with_polyA_reads": "15.2K(0.00%)",
+                "MID_with_low_quality_base_reads": "35.31M(2.40%)"
+            },
+            {
+                "Sample_id": "FP200002927_L01_25",
+                "getCIDPositionMap_uniqCIDTypes": "609.7M",
+                "total_reads": "1.47G",
+                "fixed_sequence_contianing_reads": "0.0(0.00%)",
+                "mapped_reads": "903.04M(61.56%)",
+                "CID_misOverlap_reads": "149.55M(10.19%)",
+                "CID_withN_reads": "0.0(0.00%)",
+                "Q10_bases_in_CID": "99.41%",
+                "Q20_bases_in_CID": "97.55%",
+                "Q30_bases_in_CID": "91.08%",
+                "Q10_bases_in_MID": "98.30%",
+                "Q20_bases_in_MID": "95.12%",
+                "Q30_bases_in_MID": "87.85%",
+                "Q10_bases_in_seq": "98.65%",
+                "Q20_bases_in_seq": "95.64%",
+                "Q30_bases_in_seq": "88.06%",
+                "MID_filter_reads": "35.49M(2.42%)",
+                "MID_with_N_reads": "59.95K(0.00%)",
+                "MID_with_polyA_reads": "14.37K(0.00%)",
+                "MID_with_low_quality_base_reads": "35.42M(2.41%)"
+            },
+            {
+                "Sample_id": "FP200002927_L01_16",
+                "getCIDPositionMap_uniqCIDTypes": "609.7M",
+                "total_reads": "2.5G",
+                "fixed_sequence_contianing_reads": "0.0(0.00%)",
+                "mapped_reads": "1.54G(61.40%)",
+                "CID_misOverlap_reads": "253.2M(10.12%)",
+                "CID_withN_reads": "0.0(0.00%)",
+                "Q10_bases_in_CID": "99.43%",
+                "Q20_bases_in_CID": "97.65%",
+                "Q30_bases_in_CID": "91.59%",
+                "Q10_bases_in_MID": "98.35%",
+                "Q20_bases_in_MID": "95.26%",
+                "Q30_bases_in_MID": "88.37%",
+                "Q10_bases_in_seq": "98.72%",
+                "Q20_bases_in_seq": "95.88%",
+                "Q30_bases_in_seq": "88.82%",
+                "MID_filter_reads": "60.11M(2.40%)",
+                "MID_with_N_reads": "87.72K(0.00%)",
+                "MID_with_polyA_reads": "25.82K(0.00%)",
+                "MID_with_low_quality_base_reads": "59.99M(2.40%)"
+            },
+            {
+                "Sample_id": "FP200002927_L01_15",
+                "getCIDPositionMap_uniqCIDTypes": "609.7M",
+                "total_reads": "1.65G",
+                "fixed_sequence_contianing_reads": "0.0(0.00%)",
+                "mapped_reads": "1.0G(60.58%)",
+                "CID_misOverlap_reads": "164.53M(9.96%)",
+                "CID_withN_reads": "0.0(0.00%)",
+                "Q10_bases_in_CID": "99.45%",
+                "Q20_bases_in_CID": "97.75%",
+                "Q30_bases_in_CID": "91.85%",
+                "Q10_bases_in_MID": "98.42%",
+                "Q20_bases_in_MID": "95.43%",
+                "Q30_bases_in_MID": "88.65%",
+                "Q10_bases_in_seq": "98.65%",
+                "Q20_bases_in_seq": "95.67%",
+                "Q30_bases_in_seq": "88.24%",
+                "MID_filter_reads": "37.51M(2.27%)",
+                "MID_with_N_reads": "58.66K(0.00%)",
+                "MID_with_polyA_reads": "16.57K(0.00%)",
+                "MID_with_low_quality_base_reads": "37.44M(2.27%)"
+            }
+        ],
+        "1.2.Filter_Stat": [
+            {
+                "reads_with_adapter": "8.96M",
+                "reads_with_dnb": "305.24M",
+                "Sample_Name": "FP200002927_L01_3",
+                "Raw_Reads": "789.45M",
+                "Clean_Reads": "475.26M",
+                "Low_Quality_Reads": "0",
+                "Too_Many_N_Reads": "0",
+                "Too_Long_Reads": "0",
+                "Remarks": "0"
+            },
+            {
+                "reads_with_adapter": "7.24M",
+                "reads_with_dnb": "375.38M",
+                "Sample_Name": "FP200002927_L01_2",
+                "Raw_Reads": "890.64M",
+                "Clean_Reads": "508.02M",
+                "Low_Quality_Reads": "0",
+                "Too_Many_N_Reads": "0",
+                "Too_Long_Reads": "0",
+                "Remarks": "0"
+            },
+            {
+                "reads_with_adapter": "7.01M",
+                "reads_with_dnb": "379.85M",
+                "Sample_Name": "FP200002927_L01_26",
+                "Raw_Reads": "872.36M",
+                "Clean_Reads": "485.49M",
+                "Low_Quality_Reads": "0",
+                "Too_Many_N_Reads": "0",
+                "Too_Long_Reads": "0",
+                "Remarks": "0"
+            },
+            {
+                "reads_with_adapter": "8.9M",
+                "reads_with_dnb": "317.72M",
+                "Sample_Name": "FP200002927_L01_13",
+                "Raw_Reads": "753.61M",
+                "Clean_Reads": "426.98M",
+                "Low_Quality_Reads": "0",
+                "Too_Many_N_Reads": "0",
+                "Too_Long_Reads": "0",
+                "Remarks": "0"
+            },
+            {
+                "reads_with_adapter": "7.19M",
+                "reads_with_dnb": "356.05M",
+                "Sample_Name": "FP200002927_L01_1",
+                "Raw_Reads": "866.76M",
+                "Clean_Reads": "503.52M",
+                "Low_Quality_Reads": "0",
+                "Too_Many_N_Reads": "0",
+                "Too_Long_Reads": "0",
+                "Remarks": "0"
+            },
+            {
+                "reads_with_adapter": "9.01M",
+                "reads_with_dnb": "338.9M",
+                "Sample_Name": "FP200002927_L01_25",
+                "Raw_Reads": "867.55M",
+                "Clean_Reads": "519.64M",
+                "Low_Quality_Reads": "0",
+                "Too_Many_N_Reads": "0",
+                "Too_Long_Reads": "0",
+                "Remarks": "0"
+            },
+            {
+                "reads_with_adapter": "11.97M",
+                "reads_with_dnb": "639.18M",
+                "Sample_Name": "FP200002927_L01_16",
+                "Raw_Reads": "1.48G",
+                "Clean_Reads": "825.61M",
+                "Low_Quality_Reads": "0",
+                "Too_Many_N_Reads": "0",
+                "Too_Long_Reads": "0",
+                "Remarks": "0"
+            },
+            {
+                "reads_with_adapter": "7.68M",
+                "reads_with_dnb": "418.8M",
+                "Sample_Name": "FP200002927_L01_15",
+                "Raw_Reads": "963.45M",
+                "Clean_Reads": "536.96M",
+                "Low_Quality_Reads": "0",
+                "Too_Many_N_Reads": "0",
+                "Too_Long_Reads": "0",
+                "Remarks": "0"
+            }
+        ]
+    },
+    "2.Alignment": {
+        "2.1.Input_Read": [
+            {
+                "Sample_Id": "FP200002927_L01_2",
+                "Number_Of_Input_Reads": "508.02M",
+                "Average_Input_Read_Length": "100.0"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_15",
+                "Number_Of_Input_Reads": "536.96M",
+                "Average_Input_Read_Length": "100.0"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_16",
+                "Number_Of_Input_Reads": "825.61M",
+                "Average_Input_Read_Length": "100.0"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_3",
+                "Number_Of_Input_Reads": "475.26M",
+                "Average_Input_Read_Length": "100.0"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_26",
+                "Number_Of_Input_Reads": "485.49M",
+                "Average_Input_Read_Length": "100.0"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_13",
+                "Number_Of_Input_Reads": "426.98M",
+                "Average_Input_Read_Length": "100.0"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_1",
+                "Number_Of_Input_Reads": "503.52M",
+                "Average_Input_Read_Length": "100.0"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_25",
+                "Number_Of_Input_Reads": "519.64M",
+                "Average_Input_Read_Length": "100.0"
+            }
+        ],
+        "2.2.Uniquely_Mapped_Read": [
+            {
+                "Sample_Id": "FP200002927_L01_2",
+                "Mapped_Reads_Number": "325.77M",
+                "Mapped_Reads(%)": "64.13%",
+                "Average_Mapped_Length": "96.38"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_15",
+                "Mapped_Reads_Number": "341.77M",
+                "Mapped_Reads(%)": "63.65%",
+                "Average_Mapped_Length": "96.3"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_16",
+                "Mapped_Reads_Number": "520.58M",
+                "Mapped_Reads(%)": "63.05%",
+                "Average_Mapped_Length": "96.17"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_3",
+                "Mapped_Reads_Number": "312.31M",
+                "Mapped_Reads(%)": "65.71%",
+                "Average_Mapped_Length": "96.67"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_26",
+                "Mapped_Reads_Number": "314.35M",
+                "Mapped_Reads(%)": "64.75%",
+                "Average_Mapped_Length": "96.51"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_13",
+                "Mapped_Reads_Number": "279.32M",
+                "Mapped_Reads(%)": "65.42%",
+                "Average_Mapped_Length": "96.72"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_1",
+                "Mapped_Reads_Number": "322.8M",
+                "Mapped_Reads(%)": "64.11%",
+                "Average_Mapped_Length": "96.38"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_25",
+                "Mapped_Reads_Number": "340.49M",
+                "Mapped_Reads(%)": "65.52%",
+                "Average_Mapped_Length": "96.63"
+            }
+        ],
+        "2.3.Multi_Mapping_Read": [
+            {
+                "Sample_Id": "FP200002927_L01_2",
+                "Multiple_Loci": "63.3M(12.46%)",
+                "Many_Loci": "1.78M(0.35%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_15",
+                "Multiple_Loci": "66.76M(12.43%)",
+                "Many_Loci": "2.01M(0.37%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_16",
+                "Multiple_Loci": "102.6M(12.43%)",
+                "Many_Loci": "3.03M(0.37%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_3",
+                "Multiple_Loci": "60.18M(12.66%)",
+                "Many_Loci": "1.76M(0.37%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_26",
+                "Multiple_Loci": "60.8M(12.52%)",
+                "Many_Loci": "1.68M(0.35%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_13",
+                "Multiple_Loci": "53.92M(12.63%)",
+                "Many_Loci": "1.46M(0.34%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_1",
+                "Multiple_Loci": "62.85M(12.48%)",
+                "Many_Loci": "1.79M(0.36%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_25",
+                "Multiple_Loci": "65.2M(12.55%)",
+                "Many_Loci": "1.94M(0.37%)"
+            }
+        ],
+        "2.4.Unmapping_Read": [
+            {
+                "Sample_Id": "FP200002927_L01_2",
+                "Too_Many_Mismatches": "0.0(0.00%)",
+                "Too_Short": "116.67M(22.97%)",
+                "Other": "498.02K(0.10%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_15",
+                "Too_Many_Mismatches": "0.0(0.00%)",
+                "Too_Short": "125.91M(23.45%)",
+                "Other": "514.04K(0.10%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_16",
+                "Too_Many_Mismatches": "0.0(0.00%)",
+                "Too_Short": "198.6M(24.06%)",
+                "Other": "792.76K(0.10%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_3",
+                "Too_Many_Mismatches": "0.0(0.00%)",
+                "Too_Short": "100.54M(21.15%)",
+                "Other": "469.71K(0.10%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_26",
+                "Too_Many_Mismatches": "0.0(0.00%)",
+                "Too_Short": "108.19M(22.28%)",
+                "Other": "468.74K(0.10%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_13",
+                "Too_Many_Mismatches": "0.0(0.00%)",
+                "Too_Short": "91.87M(21.52%)",
+                "Other": "416.46K(0.10%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_1",
+                "Too_Many_Mismatches": "0.0(0.00%)",
+                "Too_Short": "115.59M(22.96%)",
+                "Other": "489.78K(0.10%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_25",
+                "Too_Many_Mismatches": "0.0(0.00%)",
+                "Too_Short": "111.49M(21.45%)",
+                "Other": "525.5K(0.10%)"
+            }
+        ],
+        "2.5.Chimeric_Read": [
+            {
+                "Sample_Id": "FP200002927_L01_2",
+                "Number_Of_Chimeric_Reads": "0.0(0.00%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_15",
+                "Number_Of_Chimeric_Reads": "0.0(0.00%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_16",
+                "Number_Of_Chimeric_Reads": "0.0(0.00%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_3",
+                "Number_Of_Chimeric_Reads": "0.0(0.00%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_26",
+                "Number_Of_Chimeric_Reads": "0.0(0.00%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_13",
+                "Number_Of_Chimeric_Reads": "0.0(0.00%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_1",
+                "Number_Of_Chimeric_Reads": "0.0(0.00%)"
+            },
+            {
+                "Sample_Id": "FP200002927_L01_25",
+                "Number_Of_Chimeric_Reads": "0.0(0.00%)"
+            }
+        ],
+        "2.6.Filter_And_Deduplication": [
+            {
+                "TOTAL_READS": "3.29G",
+                "PASS_FILTER": "2.76G",
+                "ANNOTATED_READS": "1.88G",
+                "UNIQUE_READS": "184.19M",
+                "FAIL_FILTER_RATE": "16.27",
+                "FAIL_ANNOTATE_RATE": "31.96",
+                "DUPLICATION_RATE": "90.18"
+            }
+        ],
+        "2.7.Annotation": [
+            {
+                "TOTAL_READS": "2.76G",
+                "MAP": "2.76G",
+                "EXONIC": "1.5G",
+                "INTRONIC": "379.35M",
+                "INTERGENIC": "881.34M",
+                "TRANSCRIPTOME": "1.88G",
+                "ANTISENSE": "522.99M"
+            }
+        ]
+    },
+    "4.TissueCut": {
+        "4.2.TissueCut_Bin_stat": [
+            {
+                "binSize": "1",
+                "Mean_reads_per_spot": "65.45",
+                "Median_reads_per_spot": "31.0",
+                "Mean_gene_type_per_spot": "1.85",
+                "Median_gene_type_per_spot": "1.0",
+                "Mean_MID_per_spot": "2.38",
+                "Median_MID_per_spot": "2.0"
+            },
+            {
+                "binSize": "50",
+                "Mean_reads_per_spot": "47.79K",
+                "Median_reads_per_spot": "38.72K",
+                "Mean_gene_type_per_spot": "864.14",
+                "Median_gene_type_per_spot": "782.0",
+                "Mean_MID_per_spot": "1.74K",
+                "Median_MID_per_spot": "1.43K"
+            },
+            {
+                "binSize": "100",
+                "Mean_reads_per_spot": "187.3K",
+                "Median_reads_per_spot": "154.64K",
+                "Mean_gene_type_per_spot": "2.55K",
+                "Median_gene_type_per_spot": "2.43K",
+                "Mean_MID_per_spot": "6.82K",
+                "Median_MID_per_spot": "5.71K"
+            },
+            {
+                "binSize": "150",
+                "Mean_reads_per_spot": "412.99K",
+                "Median_reads_per_spot": "344.33K",
+                "Mean_gene_type_per_spot": "4.39K",
+                "Median_gene_type_per_spot": "4.3K",
+                "Mean_MID_per_spot": "14.95K",
+                "Median_MID_per_spot": "12.65K"
+            },
+            {
+                "binSize": "200",
+                "Mean_reads_per_spot": "720.93K",
+                "Median_reads_per_spot": "611.87K",
+                "Mean_gene_type_per_spot": "6.09K",
+                "Median_gene_type_per_spot": "6.14K",
+                "Mean_MID_per_spot": "24.34K",
+                "Median_MID_per_spot": "21.76K"
+            }
+        ],
+        "4.1.TissueCut_Total_Stat": [
+            {
+                "Contour_area": "167.46M",
+                "Number_of_DNB_under_tissue": "49.89M",
+                "Ratio": "29.79%",
+                "Total_gene_type": "29.19K",
+                "MID_counts": "118.87M",
+                "Fraction_MID_in_spots_under_tissue": "64.54%",
+                "Reads_under_tissue": "3.27G",
+                "Fraction_reads_in_spots_under_tissue": "41.96%"
+            }
+        ]
+    }
+}
