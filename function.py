@@ -158,19 +158,3 @@ def update(f_o,f_n):
 			f_n.loc[f_n["ANALYSZ_ID"]==i,"errorType"] = f_n.loc[f_n["ANALYSZ_ID"]==i,"errorType"]
 		
 	return f_n
-"""
-
-
-def update(f_o,f_n):
-	strings = ["errorType","Treatment","Remarks"]
-	for i in f_n["ANALYSZ_ID"].values:
-		if i in f_o["ANALYSZ_ID"].values:
-			if np.isnan(float(f_o.loc[f_o["ANALYSZ_ID"]==i,"errorType"][0])):	
-				f_n.loc[f_n["ANALYSZ_ID"]==i,"errorType"] = f_n.loc[f_n["ANALYSZ_ID"]==i,"errorType"]
-			else:
-				for j in strings:
-					f_n.loc[f_n["ANALYSZ_ID"]==i,j] = f_o.loc[f_o["ANALYSZ_ID"]==i,j]
-		else:
-			f_n.loc[f_n["ANALYSZ_ID"]==i,"errorType"] = f_n.loc[f_n["ANALYSZ_ID"]==i,"errorType"]
-	return f_n	
-"""
